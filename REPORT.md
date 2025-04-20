@@ -55,6 +55,8 @@ This report outlines the steps taken to configure and execute the CI/CD pipeline
 ![Docker Run](images/dockerRun.png)
 6. Install dependencies Test
 ![Install Dependencies](images/installDep.png)
+7. Config Pipeline Jenkins
+![Config Pipeline](images/configPipeline.png)
 
 
 
