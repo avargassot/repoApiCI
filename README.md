@@ -14,5 +14,5 @@ This project demonstrates a simple Node.js API for managing tasks, integrated wi
 
 ## Running with Docker
 
-1. Build the image: `docker build -t task-api .`  
-2. Run the container: `docker run -p 3000:3000 task-api`
+1. Build the image: `docker build -t desafio8 .`  
+2. Run the container: `docker run -p 4000:4000 desafio8`
