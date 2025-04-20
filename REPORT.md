@@ -23,8 +23,8 @@ This report outlines the steps taken to configure and execute the CI/CD pipeline
 2. **Docker Integration**  
      
    - Created a Dockerfile to containerize the application.
-   - Build de image  ``` docker build -t task-api ```
-   - Execute containerize  ``` docker run -p 3000:3000 task-api ```
+   - Build de image  ``` docker build -t desafio8 . ```
+   - Execute containerize  ``` docker run -p 4000:4000 desafio8 ```
 
 3. **Install dependencies Test**
     - Install Jest, supertest, esñinmt ```  npm install jest supertest eslint -D ```
