@@ -57,6 +57,7 @@ This report outlines the steps taken to configure and execute the CI/CD pipeline
 ![Install Dependencies](images/installDep.png)
 7. Config Pipeline Jenkins
 ![Config Pipeline](images/configPipeline.png)
-
+7. Resultado Pipeline Jenkins
+![Resultado Pipeline](images/resPipeline.png)
 
 
